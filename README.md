@@ -7,6 +7,6 @@ It is a website which sells second-hand mobile phones which are stricly verified
 We searched several days for 2 identical phones(2 Samsung Galaxy S21 of 256GB in _"As new"_ or _"Excelent"_ conditions) but we found none. Their stock is very unpredictable, and sometimes, low too. So, I have created this script which also gave me the __opportunity to learn__ a little bit of __Selenium__, I let it run in the background and in the second day we already found and bought the first phone. After that, I have never used this again, but it was fun creating and seeing it really helping us.
 #### Here you may see the email's structure
 `This is an email sent while testing the script with some friends after it was done.`  
-<img src="https://github.com/DanutGavrus/Photos/blob/master/12.%20Python%20and%20Selenium.png">
+<img src="https://user-images.githubusercontent.com/56603839/226365533-1486c584-6e0b-4699-8148-2d797431afaf.png">
 #### And here you may see how the website looks like
-<img src="https://github.com/DanutGavrus/Photos/blob/master/12.%20Python%20and%20Selenium%20-%20Flip.png">
+<img src="https://user-images.githubusercontent.com/56603839/226365574-59ca636c-804a-4fc5-a681-f95829eed196.png">
