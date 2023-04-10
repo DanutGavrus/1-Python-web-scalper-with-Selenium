@@ -1,4 +1,4 @@
-## Find desired phones on Flip.ro
+## Find desired phones on Flip.ro 
 #### Context
 One friend of mine asked me which phone do I recommend him and his wife buying as I am really __passionate about tech__(mobile phones, laptops, PCs, monitors, TVs, Speakers, etc). We established a budget and then I told him about Flip.ro. 
 #### What is Flip.ro?
